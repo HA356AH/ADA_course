@@ -1,4 +1,7 @@
 /*
+
+    Arbol combinatorio
+
     Un instructor de esquí dispone de n pares de esquís para sus n alumnos. 
     Obligatoriamente, cada alumno debe recibir un par de esquís, que han de 
     adecuarse lo máximo posible a su altura. El problema del instructor es asignar 
